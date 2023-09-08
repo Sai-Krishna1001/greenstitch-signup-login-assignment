@@ -1,5 +1,26 @@
 # greenstitch-signup-login-assignment
 
+# Signup and Login Process
+
+Step 1: clone the repository
+
+Step 2: import the maven project in any IDE(Eclipse, Intellij, STS)
+
+Step 3: update the maven project
+
+Step 4: Run the project as springboot application
+
+Step 5: Before the user login the user has to register by providing userdetails in json format(Check API Reference mentioned below)
+
+Step 6: After Signup user has to login by providing username and password in json format(Check API Reference mentioned below)
+
+Step 7: RESULT
+User will get JWT token after the user credentials are valid
+
+
+
+
+
 
 ## API Reference
 
